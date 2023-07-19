@@ -495,51 +495,51 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "2-Hxhx_KPFo",
+			"Video_Id": "DbZb2k0PfoU",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "The Kerala Story",
-			"Movieimg":"https://i.ytimg.com/vi/2-Hxhx_KPFo/maxresdefault.jpg",
+			"Movie_name": "KURUKKAN",
+			"Movieimg":"https://i.ytimg.com/vi/DbZb2k0PfoU/maxresdefault.jpg",
             "Description": "",
             "Language": "Malayalam"
 		},
 		{
 			"id": 2,
-			"Video_Id": "1w0kjsSqIBM",
+			"Video_Id": "PnWc6JxuGUA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Thrishanku",
-			"Movieimg":"https://i.ytimg.com/vi/1w0kjsSqIBM/maxresdefault.jpg",
+			"Movie_name": "Kasargold",
+			"Movieimg":"https://i.ytimg.com/vi/PnWc6JxuGUA/maxresdefault.jpg",
             "Description": "",
             "Language": "Malayalam"
 		},
 		{
 			"id": 3,
-			"Video_Id": "Af3cjNPhM4o",
+			"Video_Id": "I4TAsa2LGtw",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "2018",
-			"Movieimg":"https://i.ytimg.com/vi/Af3cjNPhM4o/maxresdefault.jpg",
+			"Movie_name": "Journey of Love 18+",
+			"Movieimg":"https://i.ytimg.com/vi/I4TAsa2LGtw/maxresdefault.jpg",
             "Description": "",
             "Language": "Malayalam"
 		},		
 		{
 			"id": 4,
-			"Video_Id": "-Hss9-WsSVY",
+			"Video_Id": "pT_5VPFEWzQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "LIVE",
-			"Movieimg":"https://i.ytimg.com/vi/-Hss9-WsSVY/maxresdefault.jpg",
+			"Movie_name": "Voice Of Sathyanathan",
+			"Movieimg":"https://i.ytimg.com/vi/pT_5VPFEWzQ/maxresdefault.jpg",
             "Description": "",
             "Language": "Malayalam"
 		},
 		{
 			"id": 5,
-			"Video_Id": "mAdcw5EiNc4",
+			"Video_Id": "Zbl1S06yixA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Enthada Saji",
-			"Movieimg":"https://i.ytimg.com/vi/mAdcw5EiNc4/maxresdefault.jpg",
+			"Movie_name": "Ghost",
+			"Movieimg":"https://i.ytimg.com/vi/Zbl1S06yixA/maxresdefault.jpg",
             "Description": "",
             "Language": "Malayalam"
 		}
