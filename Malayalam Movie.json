@@ -3,489 +3,524 @@
 	"Movie":[
 		{
 			"id": 1,
+			"Video_Id": "qd9Yo45rGS0",
+			"Movie_name": "VISWASAM",
+			"Description": "Thookku Durai, a chieftain, gets separated from his wife, Niranjana, after their daughter, Swetha, gets injured during a fight. Years later, he tries to protect Swetha without revealing his identity.",
+			"Movieimg": "https://www.123coimbatore.com/cinema/uploads/movies/2019013114040554193_Viswasam-Re.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "fqw7FZG_gyQ",
+			"Movie_name": "Kakkipada",
+			"Description": "The movie is directed by Shebi Chowghat and featured Sarath Appani, Sujith Shankar, Aradhya Ann and Maala Parvathy as lead characters.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGIzMDMxZjItYjZlZi00MGMyLWEyNmEtYWQzMWNiZjZkYjlhXkEyXkFqcGdeQXVyMzMxMDUzNTk@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "OIeWMEZkB28",
+			"Movie_name": "Valleem Thetti Pulleem Thetti",
+			"Description": "Vinayan, a technician, and Sridevi, a rich man's daughter, fall in love with each other. However, when Sridevi's father learns about their love affair, he tries every possible way to separate them.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzMwZTc3ZjktNmU1Zi00NTk0LWE3NDQtZTg0OTFjOTQwN2MyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "A_Z_yzGlS_o",
+			"Movie_name": "Vivaaha shamsakal",
+			"Description": "Madhav, an NRI, arrives in India to look for a bride. He is accompanied by Satyabhama, the daughter of a wedding consultant, and eventually falls in love with her.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTQ3MWQzNTgtNTAwZC00MmVhLThlZTktZmYwM2M2NzIyMTAxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "eY4KWFndYV8",
+			"Movie_name": "Mazhayathu",
+			"Description": "A bizarre incident shakes a family of three, and the father finds himself becoming the victim of people's anger.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDg1M2ZiYTYtNGFkMi00NzQwLTlhZTMtMDg0M2ZlYmMwMGYwXkEyXkFqcGdeQXVyNjI1MDIwOTI@._V1_.jpg"
+		},
+		{
+			"id": 6,
 			"Video_Id": "QuM9QGacGbk",
 			"Movie_name": "Santhosham",
 			"Description": "Santhosham is a 2023 Indian Malayalam movie directed by Ajith V Thomas and produced by Isha Pattali and Ajith V Thomas under the banner Mise-En-Scene Entertainment. It features Anu Sithara, Amith Chakalakkal, Kalabhavan Shajohn, and Mallika Sukumaran.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BM2RkZGU4YTAtYmY3ZC00YjdlLWI5MzItMWJlOWY1NjVhOTkxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 2,
+			"id": 7,
 			"Video_Id": "NgXQgn0VmDo",
 			"Movie_name": "Padma",
 			"Description": "In the upper echelons of the social hierarchy, psychologist Ravi (Anoop Menon) and his wife Padma (Surabhi Lakshmi) settle into their new home. Their seemingly happy marriage is strained when Padma is attracted to another man.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWFkMTlkZjctMzcyNS00OWIwLWJmYmQtZTJhZjIzNTRhYzNhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 3,
+			"id": 8,
 			"Video_Id": "XXpBdb9ZWek",
 			"Movie_name": "Kodeeswaran 3",
 			"Description": "This content is Copyrighted to Redakh Arts. Any unauthorized reproduction, redistribution or re-upload is strictly prohibited. Legal action will be taken against those who violate the copyright of the same.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDkyM2NhYzMtM2Y2NS00MjMzLThkODItYWIzNWYzYWQwNmJlXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_.jpg"
 		},
 		{
-			"id": 4,
+			"id": 9,
 			"Video_Id": "PPEM7n6FBYs",
 			"Movie_name": "Njan Gagan",
 			"Description": "Gagan and Sweety fall in love but are forced to break up because her father disapproves of him. While defending a family from thugs one day, Gagan unknowingly saves Sweety and vows to protect her.",
 			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/njan-gagan-et00074333-18-04-2018-07-45-45.jpg"
 		},
 		{
-			"id": 5,
+			"id": 10,
 			"Video_Id": "cH9f3fKc5Kc",
 			"Movie_name": "Koode",
 			"Description": "Following the loss of his sister, a young man is forced to reflect on his childhood and reassess his future. However, he finds support and courage from unexpected quarters.",
 			"Movieimg": "https://static.moviecrow.com/gallery/20180611/141054-koode.jpg"
 		},
 		{
-			"id": 6,
+			"id": 11,
 			"Video_Id": "_JK2WZtVuu8",
 			"Movie_name": "Neymar",
 			"Description": "Neymar is a 2023 Indian Malayalam-language comedy film directed by Sudhi Maddison and produced by Padma Uday under the banners of V Cinemas International.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzkyNzMxNGMtOGI5OS00ZTk4LWE1ZWYtZTIwNDA1OTNlOTc5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 7,
+			"id": 12,
 			"Video_Id": "",
 			"Movie_name": "Nonsense",
 			"Description": "",
 			"Movieimg": ""
 		},
 		{
-			"id": 8,
+			"id": 13,
 			"Video_Id": "We7jryGT1jY",
 			"Movie_name": "Evidam Swargamanu",
 			"Description": "Mathews has a farm which is the envy of everyone in the village. It catches the attention of a dirty land dealer who traps him in a vicious bureaucratic web to take it from him.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTRkZDQ2MDUtNjA3Zi00MTQzLTg0ZTgtYTUyYWIxNTZmMmJhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 9,
+			"id": 14,
 			"Video_Id": "Z9ixpoiknxY",
 			"Movie_name": "Dubai Trip",
 			"Description": "John has an accident with a rich merchant named Devanarayanan and walks away with a blank cheque. John and his friends Jaffer and Janardhanan use the cheque to take a holiday trip in Dubai.",
 			"Movieimg": "https://i.ytimg.com/vi/Z9ixpoiknxY/maxresdefault.jpg"
 		},
 		{
-			"id": 10,
+			"id": 15,
 			"Video_Id": "_G0ngJM0dDg",
 			"Movie_name": "Prince",
 			"Description": "A teacher of social science falls in love with a British woman who teaches English in the same school as him, but all hell breaks loose when they decide to marry.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWY1MjEzZWItNjZiOC00YzY4LWJiMjgtMTU4MDczYWExYzIwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
 		},
 		{
-			"id": 11,
+			"id": 16,
 			"Video_Id": "UdhzPooN56I",
 			"Movie_name": "Big Brother",
 			"Description": "Upon being released from prison, Sachi demands to lead a tranquil life with his family. However, fate has other plans for the ex-convict when he encounters a dangerous drug lord.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzlmOGU2ZDUtOTliMy00YzQ5LThjMTAtNDNmYjEwY2RiNGY4XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
 		},
 		{
-			"id": 12,
+			"id": 17,
 			"Video_Id": "bNyKd0PUx04",
 			"Movie_name": "Kumbalangi Nights",
 			"Description": "Saji, Bonny, Bobby and Franky are siblings who mostly do not get along. However, a series of events forces them to keep their animosity aside and support each other.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjU5MmQwMWYtMGFiMS00NTRiLThiODAtMzNkNzU1MWNjYTllXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 13,
+			"id": 18,
 			"Video_Id": "gaHuud5cZBE",
 			"Movie_name": "Mandharam",
 			"Description": "Rajesh, a young man, always has bad luck when it comes to romantic relationships. However, he must brave through several heartbreaks before finding his one true love.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTdhNTllMmMtMWIyNi00MmFmLWI2ODgtZTcwYWMwMjQwYjkwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 14,
+			"id": 19,
 			"Video_Id": "gkmikPSAW3c",
 			"Movie_name": "Godha",
 			"Description": "Captain, a former wrestler, sends his son Das to Punjab for higher studies. Once there, Das falls in love with Aditi, a champion wrestler, who inspires him to pursue the sport.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzExYzI1YzctNjE1My00N2U1LTkyZjYtOWU0ZGQ4ZjBkYTc4XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 15,
+			"id": 20,
 			"Video_Id": "FW5YZCL2biA",
 			"Movie_name": "Thozha",
 			"Description": "The story revolves around Vikramadhitya (Nagarjuna) a quadriplegic billionaire, and Seenu, (Karthi) his ex-convict caretaker. Circumstances in their life teach them the value of relationships over money.",
 			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/74130a7b0ecde7351894034b091afafd7ba9d050e351f415b88e337d0c736acd._RI_V_TTW_.jpg"
 		},
 		{
-			"id": 16,
+			"id": 21,
 			"Video_Id": "_qWFrThSJdQ",
 			"Movie_name": "OOHA",
 			"Description": "Lilly and Albert, a newly married couple, go to their farm house but unusual things begin to happen once they get there.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTZhM2VhNjctZjY0NC00NWZhLThlMjYtZjY5MWJkOGI1MGVkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 17,
+			"id": 22,
 			"Video_Id": "80RFeoT_miI",
 			"Movie_name": "4 years",
 			"Description": "A turbulent romance blooms between engineering students Vishal and Gayathri over four years. The fate of their relationship depends on what happens on the final day of their college.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZWI5MmRjNjctZDJkNS00MWMyLTgzYmYtNTA0MTU1MTY5MjllXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 18,
+			"id": 23,
 			"Video_Id": "b9woCAyd_po",
 			"Movie_name": "WOLF",
 			"Description": "Sanjay, a young man, drives down to surprise his fiancee, who is displeased with his unannounced visit. However, when the lockdown is suddenly announced, he gets stuck and learns about her true self.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzFkYmRlODMtODE4Ni00ZTY1LTliNjAtYjg1MjMxN2UxYzI0XkEyXkFqcGdeQXVyMTMwMzA0MjEx._V1_.jpg"
 		},
 		{
-			"id": 19,
+			"id": 24,
 			"Video_Id": "Q4LfDGGaawQ",
 			"Movie_name": "ALI",
 			"Description": "Story of an innocent village girl ( Alli ) and her father, portrayed in a beautiful forest backdrop. Their peaceful life goes on a toss and when she takes refuge in the forest and mother nature had her own plans to rescue her.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTczZTkyNWYtZjI2YS00MGZlLWJmMTMtZjVmMTY1ZjMzZmVhXkEyXkFqcGdeQXVyNjc5OTAzNDU@._V1_.jpg"
 		},
 		{
-			"id": 20,
+			"id": 25,
 			"Video_Id": "0m7Fp8ZviQE",
 			"Movie_name": "Kaithi",
 			"Description": "Dilli, an ex-convict, endeavours to meet his daughter for the first time after leaving prison. However, his attempts are interrupted due to a drug raid planned by Inspector Bejoy.",
 			"Movieimg": "https://www.malayalamsubtitles.org/wp-content/uploads/2020/02/Kaithi-2019-725x1024.jpg"
 		},
 		{
-			"id": 21,
+			"id": 26,
 			"Video_Id": "7fjprMLPFzM",
 			"Movie_name": "Dear Vaappi",
 			"Description": "Basheer, a skilled tailor who dreams of starting his own business, and his ambitious daughter Amira, who aspires to become a model, navigate their respective professions and goals for the future.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDk2YjYxNDYtNThlZi00OGM0LWIwYWQtMmIzM2E2MzcyZTNjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 22,
+			"id": 27,
 			"Video_Id": "Wk7T6MmcPSE",
 			"Movie_name": "Masterpiece",
 			"Description": "When the students of the Travancore Maharaja College start to form gangs and engage in crime and brutal fights, Edward Livingston, an English professor decides to restore order in the campus.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTI4YWVmY2EtODNjOC00N2I1LWI1NjgtY2M1NGU0ZmM1MDM0XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 23,
+			"id": 28,
 			"Video_Id": "RXpp_VJpj8M",
 			"Movie_name": "Urumi",
 			"Description": "Kelu is a warrior in 16th century Kerala whose father was killed by Vasco da Gama and his troops. Kelu vows to avenge his father's death with the assistance of Vavvali and Ayesha, a warrior princess.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjkzMWFiZmUtMWQyYy00NzRhLThiNjItY2RiYTUzNWZmNDhkXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
 		},
 		{
-			"id": 24,
+			"id": 29,
 			"Video_Id": "QZhLrnJlo80",
 			"Movie_name": "Varnythil Aashanka",
 			"Description": "Four thieves plan to break into a jewellery shop during a strike and steal the valuables but things change when Dayandan, an unemployed man, joins them.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/e/e8/Varnyathil_Aashanka_film_poster.jpg"
 		},
 		{
-			"id": 25,
+			"id": 30,
 			"Video_Id": "CLBwiTh_wS0",
 			"Movie_name": "Roudram",
 			"Description": "Narendran is a righteous cop who is given the job to solve the murder case of a drug baron. He encounters many obstacles from influential people when he is close to resolving the mystery.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTUzYWU5YmYtM2ZhZC00NDJmLWIwNWQtMThlMDJjZDM5ZDc0XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 26,
+			"id": 31,
 			"Video_Id": "cQ0zdHvoeAs",
 			"Movie_name": "Mr. Marumakan",
 			"Description": "Ashoka, a lawyer who also runs a drama troupe, falls in love with a woman, who, along with two other generations of women in her family, thinks that men are not essential for a happy life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2M1YzA5NTAtZTdlYy00MDNmLTkzNjctNmE0N2RlNTlmOTBiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 27,
+			"id": 32,
 			"Video_Id": "nLTWLjIRltw",
 			"Movie_name": "Memories 2013",
 			"Description": "Sam Alex, a police officer, resorts to alcohol to ease the pain of his family's death. However, his life turns around when he is called to investigate a series of murders showing a similar pattern.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTY0OGJhMmEtZGVhNy00YzZlLTg1YTAtMWFjNGExZmE2ZDRkXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg"
 		},
 		{
-			"id": 28,
+			"id": 33,
 			"Video_Id": "0FZxy31MeQY",
 			"Movie_name": "Dr Love",
 			"Description": "Vinaychandran, a writer, makes a living by selling his average romantic stories. His life takes a turn when he is assumed to be an expert on matters of the heart while trying to help a professor.",
 			"Movieimg": "https://staticimg.spicyonion.com/images/profile/title/dr-love-malayalam-movie/bAAEe8ltzkm4GQhOHEu2JIicbYc.jpg"
 		},
 		{
-			"id": 29,
+			"id": 34,
 			"Video_Id": "1-lLhsCjud8",
 			"Movie_name": "Red Mystery",
 			"Description": "A youth is found dead in a lodge room and a police officer begins a probe to unravel the mystery and some unexpected characters come into play.",
 			"Movieimg": "https://i.ytimg.com/vi/1-lLhsCjud8/maxresdefault.jpg"
 		},
 		{
-			"id": 30,
+			"id": 35,
 			"Video_Id": "l3zYvhbYa6o",
 			"Movie_name": "Aadu",
 			"Description": "Shaji Pappan's team wins a tug of war match and receives a cash prize, a trophy and a female goat as a reward. However, things change when the team members decide to butcher the goat.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/2/2e/Aadu_film.jpg"
 		},
 		{
-			"id": 31,
+			"id": 36,
 			"Video_Id": "BlfOScgA-vY",
 			"Movie_name": "Chathurangam",
 			"Description": "After learning about Jimmy's talents, a minister makes him the secretary of his political party. However, things turn upside down when his own party member tries to plot against him.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/5/5d/Chathurangam.jpg"
 		},
 		{
-			"id": 32,
+			"id": 37,
 			"Video_Id": "By1M-3SqFh8",
 			"Movie_name": "Madhura Naranga",
 			"Description": "Jeevan, Kumar and Salim do odd jobs and share an apartment in the Gulf. When Jeevan comes across Thamara who is running away from some criminals, he decides to bring her home.",
 			"Movieimg": "https://m.media-amazon.com/images/S/pv-target-images/8209d5c2837b0580253fe8437be870acc9e6880f0df9c1ca663fdef3fe5558e9.jpg"
 		},
 		{
-			"id": 33,
+			"id": 38,
 			"Video_Id": "kRoh8UIozPU",
 			"Movie_name": "Polytechnic",
 			"Description": "Pauly, a benevolent politician, falls in love with the daughter of his political opponent, Sukumaran. The rest of the story is about the game of political one-upmanship between Pauly and Sukumaran.",
 			"Movieimg": "https://staticimg.spicyonion.com/images/profile/title/polytechnic-malayalam-movie/polytechnic-malayalam-movie.jpg"
 		},
 		{
-			"id": 34,
+			"id": 39,
 			"Video_Id": "9bnLitwt-xo",
 			"Movie_name": "Shylock",
 			"Description": "Prathapa, a producer, is indebted to Boss, a ruthless moneylender, but refuses to pay his dues. As a result, the latter decides to make his life miserable at every turn.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjhjMzhkZDUtMGM0MS00YmIyLWE4ZmItYjYyNTFiOWYzN2M2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 35,
+			"id": 40,
 			"Video_Id": "4t1u9IG6Nf8",
 			"Movie_name": "The Gambler",
 			"Description": "A father and son go through a series of struggles as they try to get what is important to them and live a happier life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGY1ODNhYWItZGM0OC00ODI4LWFmM2UtODE1N2Y4NTFhMDk5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 36,
+			"id": 41,
 			"Video_Id": "9YIck1tYB08",
 			"Movie_name": "Archana 31 Not Out",
 			"Description": "After 31 failed marriage proposals, Archana finds the perfect groom in Prasad, who has a job abroad. However, the night before the wedding, Archana receives a phone call that changes her life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGU5ZTY4NzItNGU0NC00YzFjLTlmN2MtZTgxODg0OTc1ZDQ0XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 37,
+			"id": 42,
 			"Video_Id": "g0UP-wWVydM",
 			"Movie_name": "How Old Are You?",
 			"Description": "A middle-aged married woman desperately tries to change her life. Her ray of hope to settle in Ireland goes up in smoke when her job applications are turned down by Irish companies.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTA3ZjJhYjMtYzgwYi00YzlmLWIwMjgtNDU5ZTM2ZWMxYzkzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 38,
+			"id": 43,
 			"Video_Id": "pLqjZjq_IRU",
 			"Movie_name": "F2",
 			"Description": "Two young men hope to control their wives after their respective marriages. However, their chauvinistic attitude often lands them in hilarious situations.",
 			"Movieimg": "https://m.media-amazon.com/images/I/91M8y1+dwzL._RI_.jpg"
 		},
 		{
-			"id": 39,
+			"id": 44,
 			"Video_Id": "2vP89rI9uMo",
 			"Movie_name": "Aliyan Srini",
 			"Description": "Bellamkonda Sreenivas with Samantha Ruth Prabhu in the lead roles. Directed by V V Vinayak, produced by Bellamkonda Suresh, music is by Devi Sri Prasad.",
 			"Movieimg": "https://i.ytimg.com/vi/2vP89rI9uMo/maxresdefault.jpg"
 		},
 		{
-			"id": 40,
+			"id": 45,
 			"Video_Id": "tBR6974gIdM",
 			"Movie_name": "Meppadiyan",
 			"Description": "Jayakrishnan's simple life meets with misery when an enticing real estate deal renders him penniless and tangled in the intricate network of wealthy men and greedy politicians.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGE2M2JlNjktMzdlYS00NGYyLWIyNDItNzU4YTIwNTBlZWQ4XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 41,
+			"id": 46,
 			"Video_Id": "rF_YknhLH8E",
 			"Movie_name": "Second Show",
 			"Description": "Lalu's life changes after gangster Vishnubuddhan makes him a part of his gang. However, when Vishnubuddhan murders his friend, Lalu sets out to seek revenge.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjJiZGI2YzItZmI2MC00OGNkLWEwZDMtOWM5NDFlMzdiNjJlXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_.jpg"
 		},
 		{
-			"id": 42,
+			"id": 47,
 			"Video_Id": "Wea0yLSdyGM",
 			"Movie_name": "Oru Vadakkan Selfie",
 			"Description": "When his father asks him to manage their grocery store, Umesh runs away to Chennai to become a film-maker. His life changes after he takes a selfie with his old neighbour and posts it online.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjM3OGJhNTAtMDVkYS00MDdmLWEzMmYtMGRmMzA5NTYxYTljXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 43,
+			"id": 48,
 			"Video_Id": "GrsH8Y3nTFg",
 			"Movie_name": "Ulsaha Committee",
 			"Description": "Apoorvan, a school dropout, aspires to become a renowned scientist and tries various experiments. While his friends Babumon and Chopra help him, the three often land in trouble due to their behaviour.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGMwODY0NmEtODQxOS00YjgyLTkwNTUtMWY4MjY1NDFlZjE0XkEyXkFqcGdeQXVyNzM0ODI5ODY@._V1_.jpg"
 		},
 		{
-			"id": 44,
+			"id": 49,
 			"Video_Id": "pu2Lra43Tvw",
 			"Movie_name": "Kadam Katha",
 			"Description": "Cleatus and Giri, who are in desperate need of money, find their lives changed when Sreekumar offers a solution to their problems.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTQ1NGNiNDgtMTE1Yi00OTRiLThhYjItYzIxNmJkZWVjNGFmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 45,
+			"id": 50,
 			"Video_Id": "5IveoJ3Fwd0",
 			"Movie_name": "Neeyum Njanum",
 			"Description": "Yakub, an officer, pursues a woman, Hashmi, during his investigation and the two eventually fall in love. After their marriage, they face a lot of hardships and a figure from Hashmi's past resurfaces.",
 			"Movieimg": "https://static.toiimg.com/photo/msid-67586115/67586115.jpg"
 		},
 		{
-			"id": 46,
+			"id": 51,
 			"Video_Id": "MaJIFrm6CzE",
 			"Movie_name": "Swapna Sanchari",
 			"Description": "Ajaychandran returns to Kerala from the Gulf as a rich man. However, his tendency to show-off his wealth in his village lands him in debt and reduces his fortunes to nothing.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGM5N2FlMWUtYjBlMC00YzMyLTg4ZjYtOWM1Njk4ZTgzNzU3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 47,
+			"id": 52,
 			"Video_Id": "YALQwD5UEWE",
 			"Movie_name": "Salalah Mobiles",
 			"Description": "Afzal is happy after his uncle helps him to set up his mobile shop. However, things take an unexpected turn when Azhagarsamy gifts him a virus-infected mobile application.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGE3MGQ1ZDUtZDFmMy00NDExLTg4YWItZWE1ZDMwNDFmODc4XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 48,
+			"id": 53,
 			"Video_Id": "y5AHE5_pz5E",
 			"Movie_name": "Iruvattam Manavatti",
 			"Description": "Gautham, a veterinary doctor, meets Bhumika and falls in love with her when he is on election duty. However, Bhumika does not reciprocate as she is scared of her father, who is a communist.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWM3NjkyYmYtZmQzMy00OGU3LTk1ZTMtNWRlZDAxNDg0ODg5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 49,
+			"id": 54,
 			"Video_Id": "wF1U7VkeQWg",
 			"Movie_name": "Premam",
 			"Description": "While George's first love turns out to be a disappointment, Malar, a college lecturer, rekindles his love interest. His romantic journey takes him through several stages, helping him find his purpose.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUtZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg"
 		},
 		{
-			"id": 50,
+			"id": 55,
 			"Video_Id": "KQPMOQb9FNo",
 			"Movie_name": "V1 Murder Case",
 			"Description": "A forensic expert experiences hallucinations while also undergoing treatment for his fear of the dark. Despite these hurdles, he investigates a young woman's murder.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZTczYWRjNDctNzRjZi00OWVjLTgxMzMtNDcyMWUxMjc3YmQ4XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg"
 		},
 		{
-			"id": 51,
+			"id": 56,
 			"Video_Id": "xAUwDGXp0dQ",
 			"Movie_name": "Vaashi",
 			"Description": "Ebin and Madhu, two ambitious lawyers, face their own dilemmas outside the courtroom when they find themselves defending opposing sides in an important case that affects them deeply.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzJiNDU3NzAtMmE0YS00YjZkLWJkNTMtZDIyZDc1NDViZWU2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 52,
+			"id": 57,
 			"Video_Id": "IyEbzZyGxL4",
 			"Movie_name": "Anugraheethan Antony",
 			"Description": "Antony, a young man, dies before confessing his feelings for Sanjana, the love of his life. He turns into a spirit and tries to figure out a way to convey the news of his death to her.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTFlMDY5YmItY2RlZS00ZTUxLWE3ODEtZjMzYzQ1NWEyMzgxXkEyXkFqcGdeQXVyMTIwMzI3OTE2._V1_.jpg"
 		},
 		{
-			"id": 53,
+			"id": 58,
 			"Video_Id": "_lpRVjoapZ0",
 			"Movie_name": "Madaras Apattanam",
 			"Description": "Madrasapattinam is a story of two people whose lives are entwined to become one set in the backdrop of Madras Presidency in the 1940s.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjgwNGQ0MjctNTI1Zi00MjNiLWFjNzUtOGRhMDUyNTVjYzU4XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg"
 		},
 		{
-			"id": 54,
+			"id": 59,
 			"Video_Id": "7J3jUhImxyo",
 			"Movie_name": "Sulaikha Manzil",
 			"Description": "When the marriage between Haala and Ameen gets decided in a short span of time with very little time for preparations, it leads dramatic ride between the families.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYWM4ZjM5NzktM2YzMS00NWQ2LThmZWQtODBlZTFmNTdmNTBjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 55,
+			"id": 60,
 			"Video_Id": "mVSbnFe-uYw",
 			"Movie_name": "Sashi",
 			"Description": "A singer in a local band has issues with anger management and alcohol. A tragedy that occurred tipped him over the edge and turned him into an alcoholic. He then starts stalking a girl, Sasi whose mental health was impacted due to a similar tragedy that occurred in her life.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGEwNzQ5NGUtNzVmYi00NDQyLWEyZmMtMTMwMGE1OGZlYzc1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
 		},
 		{
-			"id": 56,
+			"id": 61,
 			"Video_Id": "kUwb3t8eHrw",
 			"Movie_name": "Dhamaka",
 			"Description": "Worried about their son's future, Eyo's parents arrange his marriage with a divorced millionaire. However, unexpected events follow when he realises he has erectile dysfunction on his wedding night.",
 			"Movieimg": "https://plansinfo.sgp1.digitaloceanspaces.com/OTT/v2/images/dhamaka-137686.jpg"
 		},
 		{
-			"id": 57,
+			"id": 62,
 			"Video_Id": "0PzVkd_FD04",
 			"Movie_name": "Veetil Pretham Enikkalla Bhayam",
 			"Description": "",
 			"Movieimg": "https://i.ytimg.com/vi/0PzVkd_FD04/maxresdefault.jpg"
 		},
 		{
-			"id": 58,
+			"id": 63,
 			"Video_Id": "8xH2KRKN-oc",
 			"Movie_name": "Overtake",
 			"Description": "The movie spins around a family being trapped by a stranger on road. Most of the times our judgement on people around us goes wrong when it comes to identifying a real enemy.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTQxYjRkZWUtNTdmNy00YjkwLThjMmUtOTYzZTFkMDEzZjUwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 59,
+			"id": 64,
 			"Video_Id": "T13hyNKtZ60",
 			"Movie_name": "Varkey",
 			"Description": "Varky is a quotation Goon who does the dirty work for his Boss and when need be, even for cops. But chaos ensues when his Boss assigns him to kidnap a bride-to-be on the eve of her wedding.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjVjMjdhNWEtNjcwNy00ZDFjLTk4YWMtMDc1NjI2NmNkZjhjXkEyXkFqcGdeQXVyNjM3NjI0Mjk@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 60,
+			"id": 65,
 			"Video_Id": "x0FvlR5sLTo",
 			"Movie_name": "Check",
 			"Description": "Aditya, a conman, is falsely accused of being an activist by his lover and sentenced to demise. However, in prison, he learns chess and becomes a champion while fighting his wrongful conviction.",
 			"Movieimg": "https://i.ytimg.com/vi/x0FvlR5sLTo/maxresdefault.jpg"
 		},
 		{
-			"id": 61,
+			"id": 66,
 			"Video_Id": "qd9Yo45rGS0",
 			"Movie_name": "Viswasam",
 			"Description": "After their daughter Swetha is born, Niranjana leaves out of town, after getting a promise from Thooku Durai not to bring Swetha to any fights.",
 			"Movieimg": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/viswasam-20190103110443-17900.jpg"
 		},
 		{
-			"id": 62,
+			"id": 67,
 			"Video_Id": "uhJMiybP3VQ",
 			"Movie_name": "Vedivazhipadu",
 			"Description": "Three married men, who are friends, are frustrated with their marital life and plan to indulge in alcohol with a woman during the festival of Pongala.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzFkMjcxNWYtNGEwMC00MjNjLWJiNWQtOGNiMjVjZGIxOWVjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 63,
+			"id": 68,
 			"Video_Id": "9GjlpjpH5g8",
 			"Movie_name": "Nonsense",
 			"Description": "A very bright, though misunderstood, student with a love for science and passion for BMX has his faith in humanity tested when something unexpected happens.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOWFjYTlkOGUtM2VkYS00ODQ3LTg4ZDQtN2UzMmFlMTMxOGQzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 64,
+			"id": 69,
 			"Video_Id": "16P-WOA9Qds",
 			"Movie_name": "Kaashh",
 			"Description": "Four friends kidnap a rich industrialist's daughter to make money. However, things take a turn when they are forced to break into a house and hold everyone inside hostage.",
 			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/0/06/Kaashh-2012.jpg"
 		},
 		{
-			"id": 65,
+			"id": 70,
 			"Video_Id": "j1hDzOhb3bs",
 			"Movie_name": "Hebbuli",
 			"Description": "Hebbuli is a 2017 Kannada action thriller film starring Sudeep, V. Ravichandran and Amala Paul. The story revolves around Captain Ram, a Para Commando Officer, who sets out to find the culprits and motive behind his brother’s death. His search leads him to fight the system and pursue to fulfil his brother’s vision.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTM3YTM3NGEtYzM0NS00N2Q2LWI5YzYtNDllMGUyOGExOTg4XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
 		},
 		{
-			"id": 66,
+			"id": 71,
 			"Video_Id": "A8m6OWQB6H0",
 			"Movie_name": "Yuddham Sharanam",
 			"Description": "When his family is torn apart, Arjun sets out to on a journey to solve the mystery and seek revenge.",
 			"Movieimg": "https://igimages.gumlet.io/telugu/news/yuddhamsharanam020717_c.jpg"
 		},
 		{
-			"id": 67,
+			"id": 72,
 			"Video_Id": "2rOzrPiWSrg",
 			"Movie_name": "Vellarikkapattanam",
 			"Description": "Hari, who finally returns to farming wholeheartedly after being aware of its nobility and in Kerala our youth have a general lack of interest and ignorance towards the heritage of agriculture and agrarianism.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzg5YjkxNGEtMjhhYy00YjhiLTlkODYtNmI2ZDY4YTg3NmZlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 68,
+			"id": 73,
 			"Video_Id": "LqtKa2c33gg",
 			"Movie_name": "Aarkkariyam",
 			"Description": "Shirley and Roy, a married couple, move to her hometown in Kerala ahead of a nationwide lockdown. They face several challenges and try to overcome their personal issues.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BN2RlYzcxZTQtYTQwYy00YzZiLTg0ZjgtYWVjODM1ODNlMjczXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
 		},
 		{
-			"id": 69,
+			"id": 74,
 			"Video_Id": "qZGhuGs9xUo",
 			"Movie_name": "Careful",
 			"Description": "A journalist investigating various traffic-related incidents comes across some mysterious events and finds herself in a life-threatening situation.",
 			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug12/image-323391-oxkvslfs6v.jpg"
 		},
 		{
-			"id": 70,
+			"id": 75,
 			"Video_Id": "vV2Km6YvvIk",
 			"Movie_name": "Manoharam",
 			"Description": "Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.",
